@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Rajat Sharma 🤖</h1>
-<h3 align="center">A passionate fullstack web app developer 👨🏻‍💻 based in haryana, India.</h3>
+<h3 align="center">Full stack web app wizard 👨🏻‍💻 on a mission to whip up something fresh every day! turning dreams into code and bringing ideas to life.</h3>
 
 - 🌱 I’m currently learning **react native and devops**
 
