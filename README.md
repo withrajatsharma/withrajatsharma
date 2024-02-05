@@ -1,6 +1,7 @@
 <h1 align="center">Hi There, I'm Rajat Sharma 🤖</h1>
 <h3 align="center">Full stack web app wizard 👨🏻‍💻 on a mission to whip up something fresh every day! turning dreams into code and bringing ideas to life.</h3>
 <img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmYziFljI71ipChc88kNJ1qw7lJcHgBEGsI-hb2QTnKXi20_ll8K-5Wx5ofBlS_WyqINVEQHjr-yybvSWP-XSybl2Hg-KDJofU9xacd_sGFUGqNYKRSzIP6gM1K1mt-s6BPRnikL6PM7lapZuORr0OX9EVA-Sf-3SoSwc6F5qxAzZ1QkZUZVLs-8v/s16000-rw/Web%20Developer.webp" alt="withrajatsharma" width="350"/>
+<br/>
 
 - 🌱 I’m currently learning **react native and devops**
 
