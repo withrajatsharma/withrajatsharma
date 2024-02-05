@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **withrajatsharma@gmail.com**
 
-- ⚡ Fun fact **As a developer, I aspire to be the President of a financial powerhouse leading with innovation, turning data into success.**
+- ⚡ Fun fact **As a developer, I aspire to be the President of a financial powerhouse.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
