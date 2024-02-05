@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGTcsEbRplBSA/profile-displaybackgroundimage-shrink_350_1400/0/1706970008016?e=1712793600&v=beta&t=uTXrjScBPuM7FwsYEbE0MW7GOUkCY2XhmmKBPRr5beU)
 <h1 align="center">Hi There, I'm Rajat Sharma 🤖</h1>
 <h3 align="center">Full stack web app wizard 👨🏻‍💻 on a mission to whip up something fresh every day! turning dreams into code and bringing ideas to life.</h3>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxucW93dmRqMWhjNWc0dno0b3YzY2VzbmNoeHl1YmM0MTVsejlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxucW93dmRqMWhjNWc0dno0b3YzY2VzbmNoeHl1YmM0MTVsejlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 
 - 🌱 I’m currently learning **react native and devops**
 
